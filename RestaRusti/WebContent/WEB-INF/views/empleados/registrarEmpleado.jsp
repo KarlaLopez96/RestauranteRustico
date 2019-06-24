@@ -62,10 +62,10 @@
 			</div>
 			<div class="row">
 				<div class="col-md-12 form-group">
-				<input id="enviar" type = "submit" value="Guardar Cambios" class="btn btn-block btn-login btn-warning">
+				<input id="enviar" type = "submit" value="Guardar Cambios" class="btn btn-block btn-secondary">
 				</div>
 			</div>
-		</form:form>
+		</form:form> 
 </div>
 </body>
 </html>
