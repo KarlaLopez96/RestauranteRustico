@@ -10,8 +10,14 @@
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-<link rel="stylesheet" href="resources/css/login.css">
 <title>Registrar Empleado</title>
+<style type="text/css">
+	body {
+		background-color: #9fa8da;
+		font-family: serif;
+		color: #000;
+	}
+</style>
 </head>
 <body>
 <div class="container">

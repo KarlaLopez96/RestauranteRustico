@@ -1,4 +1,9 @@
 @charset "ISO-8859-1";
+body{
+    background-color:#9fa8da;
+    font-family:fantasy;
+    color:#000;
+}
 .custab{
     border: 1px solid #ccc;
     padding: 5px;
