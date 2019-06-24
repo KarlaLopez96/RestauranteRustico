@@ -15,25 +15,25 @@
 <body >
 	
 	<div class="simple-login-container">
-		<h2>Login</h2>
+		<h2 style="font-size:45px;">Login</h2>
 			<form id="holi" >
 	
 			
 			<div class="row">
 				<div class="col-md-12 form-group">
-					<input id="1" type="email" placeholder="Username" class="form-control" name="username" />
+					<input style="font-size:20px" id="1" type="email" placeholder="Username" class="form-control" name="username" />
 				</div>
 			</div>
 			
 			<div class="row">
 				<div class="col-md-12 form-group">
-					<input id="2" type="password" placeholder="Password" class="form-control" name="password" />
+					<input style="font-size:20px" id="2" type="password" placeholder="Password" class="form-control" name="password" />
 					
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12 form-group">
-					<input type="submit" class="btn btn-block btn-login" value="Iniciar Sesi&oacute;n">
+					<input style="font-size:20px" type="submit" class="btn btn-block btn-login" value="Iniciar Sesi&oacute;n">
 				</div>
 			</div>
 			</form>
@@ -60,7 +60,7 @@
 					},
 					error: function (xhr) {
 						swal("Usuario o contraseña inválido, por favor intente nuevamente", {
-				 	    	icon: "error",
+				 	    	icon: "Error",
 		 		   		});
 					}
 				});
