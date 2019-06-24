@@ -82,7 +82,7 @@
 							<form action="${pageContext.request.contextPath}/empleado/eliminar" method="post"> 
 			            		<input type="hidden" name="empId" value=${empleados.idEmpleado}>
 			            		<input type="hidden" name="sucId" value=${empleados.sucursal.idSucursal}>
-			            		<input type="submit" class="btn btn-danger" value="Eliminar">
+			            		<input type="submit" class="btn btn-secondary" style="background: #000051; color: white" value="Eliminar">
 							</form>
 						</td>
 					</tr>

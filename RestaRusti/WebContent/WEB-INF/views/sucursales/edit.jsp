@@ -74,8 +74,7 @@
 			</div>
 			<div class="row">
 				<div class="col-md-12 form-group">
-				<input id="enviar" type = "submit" value="Guardar Cambios" class="btn btn-block btn-login btn-warning">
-					<!--button id="enviar" onclick="acceptTransaction()" class="btn btn-block btn-login">Guardar Cambios</button> -->
+				<input id="enviar" type = "submit" value="Guardar Cambios" class="btn btn-block btn-secondary">
 				</div>
 			</div>
 		</form:form>
